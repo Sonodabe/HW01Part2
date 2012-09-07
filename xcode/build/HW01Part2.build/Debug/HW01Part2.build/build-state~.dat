@@ -1,0 +1,201 @@
+THW01Part2
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Info.plist" Info.plist
+cCpResource CinderApp.icns ./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.pth HW01Part2_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part2" normal i386
+cTouch "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004EED84FA00000000000000EE
+t1324188922
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004E2F297A0000000000006500
+t1311713658
+s25856
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E2F297B0000000000025E48
+t1311713659
+s155208
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c000000004E2F297B0000000000005FA8
+t1311713659
+s24488
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E2F297C0000000000014894
+t1311713660
+s84116
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E2DA6AF0000000000006530
+t1311614639
+s25904
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E2DA6AF0000000000006560
+t1311614639
+s25952
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004F9D0514000000000007CED0
+t1335690516
+s511696
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004F9D04D2000000000002E350
+t1335690450
+s189264
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000004F9D072200000000004B7F60
+t1335691042
+s4947808
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004F9D069F000000000032B7E0
+t1335690911
+s3323872
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp
+c000000005048E1F40000000000001EAD
+t1346953716
+s7853
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Info.plist
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part2
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2.LinkFileList
+c00000000504959B2000000000000009E
+t1346984370
+s158
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.o
+t2
+s0
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/CinderApp.icns
+c000000005049594A000000000001BEB5
+t1346984266
+s114357
+
+N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/HW01Part2_Prefix.pch
+c000000005049594A0000000000000093
+t1346984266
+s147
+i<Cocoa/Cocoa.h>
+
+N/var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c000000005049594A000000000000034F
+t1346984266
+s847
+
+CBuild AST from "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp"
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies69c56f3291f9b541^4e7d743291f9b541^---0#1#0#--18"Check dependencies36"C2CB2498-AD51-4835-86D9-EA1752ABE7DF-
+
+CCompileC ./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s368677170.795922
+e368677174.107777
+r1
+xCompileC
+x./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.o
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp:105:7: warning: unused variable 'ratio' [-Wunused-variable,12]
+o                 int ratio = y/kAppHeight;
+o                     ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp7debcb3291f9b541^96981b3691f9b541^-251"/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp:105:7: warning: unused variable 'ratio' [-Wunused-variable,12]                 int ratio = y/kAppHeight;                     ^1 warning generated.1(21%IDEActivityLogMessage2@23"Unused variable 'ratio'-368677173#0#164#-1#-23%DVTTextDocumentLocation3@109"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HW01Part2/src/HW01Part2App.cpp0000000000000000^104#6#104#6#18446744073709551615#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@118"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HW01Part2/xcode/../src/HW01Part2App.cpp0000000000000000^2624"CompileC ./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.o ../src/HW01Part2App.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/build/Debug" -include /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch -MMD -MT dependencies -MF "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.d" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/../src/HW01Part2App.cpp" -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2App.o"36"51FDA159-BC71-4152-850B-32439BC53077-
+
+CCpResource CinderApp.icns ./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns
+s368677170.545110
+e368677170.548625
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy ./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns94a48b3291f9b541^47738c3291f9b541^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns00f44414deffdf42^506"CpResource CinderApp.icns ./build/Debug/HW01Part2.app/Contents/Resources/CinderApp.icns    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/CinderApp.icns" "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Resources"36"AEE5C745-7816-4BCE-815F-288BB6387232-
+
+CLd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part2" normal i386
+s368677174.115953
+e368677176.309206
+r1
+xLd
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part2
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part240dc1d3691f9b541^4e294f3891f9b541^---0#0#0#--1072"Ld ./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part2 normal i386    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/build/Debug" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/build/Debug" -filelist "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/Objects-normal/i386/HW01Part2.LinkFileList" -mmacosx-version-min=10.5 ../../../../../../../../Applications/cinder/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/MacOS/HW01Part2"36"40CA795B-8404-47CA-8B07-1CC8CB7258C9-
+
+CProcessInfoPlistFile "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Info.plist" Info.plist
+s368677170.524842
+e368677170.536457
+r1
+xProcessInfoPlistFile
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Info.plist
+xInfo.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistce1a883291f9b541^ef53893291f9b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HW01Part2/xcode/Info.plist0000000000000000^510"ProcessInfoPlistFile ./build/Debug/HW01Part2.app/Contents/Info.plist Info.plist    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app/Contents/Info.plist"36"CF4E9446-E82B-4CD2-837F-C02660F90282-
+
+CProcessPCH++ /Users/brandonsonoda/Library/Developer/Xcode/DerivedData/HW01Part2-aysgmonizwpmgtglgqmhzijxvvij/Index/PrecompiledHeaders/HW01Part2_Prefix-gjkplooagbrypmcespuvyhtdzudb_ast/HW01Part2_Prefix.pch.pth HW01Part2_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.pth HW01Part2_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s368677170.556419
+e368677170.789052
+r1
+xProcessPCH++
+x/var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.pth
+xHW01Part2_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile HW01Part2_Prefix.pch53958e3291f9b541^e10cca3291f9b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/HW01Part2/xcode/HW01Part2_Prefix.pch0000000000000000^2551"ProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.pth HW01Part2_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/HW01Part2-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/HW01Part2.build/Debug/HW01Part2.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/build/Debug" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/HW01Part2_Prefix.pch" -o /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/HW01Part2_Prefix-bpjkxwqdmlsfvvcidjllwrjzerhs/HW01Part2_Prefix.pch.d36"F4127B55-A83C-410D-9F7C-9A7FF41F69D8-
+
+CTouch "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app"
+s368677176.318712
+e368677176.348528
+r1
+xTouch
+x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.appc0b3513891f9b541^5439593891f9b541^---0#0#0#--249"Touch ./build/Debug/HW01Part2.app    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode"    /usr/bin/touch -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/HW01Part2/xcode/./build/Debug/HW01Part2.app"36"513EDCF2-032A-41A4-B745-4FAC4CE85025-
+
